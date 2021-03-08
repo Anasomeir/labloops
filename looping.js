@@ -27,3 +27,22 @@ for(var i = 0;i < numofRooms; i++)
 }
 
 document.write(result);
+
+
+
+
+
+
+
+// function declaration
+function alertFunction() {
+
+    alert('Go down to see the available houses');
+}
+ alertFunction();
+var printing = function () {
+for (var i = 0; i <= 3; i++) {
+document.write('Buy A House right now' + '<br>');
+}
+}
+printing();
