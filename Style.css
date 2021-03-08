@@ -3,7 +3,12 @@ head
 
 h1 {
     text-align: center;
+    
 }
+
+H1 {
+    text-shadow:5px 5px 10px rgb(153, 179, 10);
+  }
 
 
 header nav ul {
@@ -24,6 +29,8 @@ header nav ul li {
 }
 
 img{
-    width: fit-content;
+        height: 800px;
+        width: 1200px;
+    
 }
-body {background-color: rgb(124, 115, 248)}
+body {background-color: rgb(206, 96, 105)}
