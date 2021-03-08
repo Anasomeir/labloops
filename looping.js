@@ -46,3 +46,17 @@ document.write('Buy A House right now' + '<br>');
 }
 }
 printing();
+
+
+// function expression
+function alertFunction() {
+
+    alert('Welcome again');
+}
+ alertFunction();
+var printing = function () {
+for (var i = 0; i <= 3; i++) {
+document.write('the best locations ' + '<br>');
+}
+}
+printing();
