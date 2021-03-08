@@ -1,0 +1,29 @@
+head 
+#p3 {background-color: #0000ff;}   /* blue */
+
+h1 {
+    text-align: center;
+}
+
+
+header nav ul {
+ list-style: square;
+}
+
+header nav ul li {
+
+    display: inline;
+    margin-right: 30px;
+}
+
+
+header nav ul li {
+    text-decoration-thickness: 100px;
+
+
+}
+
+img{
+    width: fit-content;
+}
+body {background-color: rgb(124, 115, 248)}

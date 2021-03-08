@@ -49,14 +49,14 @@ printing();
 
 
 // function expression
-function alertFunction() {
+function EFunction() {
 
     alert('Welcome again');
 }
- alertFunction();
-var printing = function () {
+EFunction();
+var againprint = function () {
 for (var i = 0; i <= 3; i++) {
 document.write('the best locations ' + '<br>');
 }
 }
-printing();
+againprint();
